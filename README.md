@@ -6,6 +6,8 @@
 
 ## Hackathon at Troy University
 * in Troy, Alabama.  Jan 2020.
+* [http://troyhack.com/]
+* [https://troy-hack.devpost.com/] 
 
 ## Goal:
 * build an Iron Man type UI in Unity
