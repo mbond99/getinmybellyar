@@ -1,4 +1,8 @@
 # Get In My Belly
+[//]: # (Image References)
+[banner]: ./screenshots/banner.jpg "Banner from Hackathon Submission"
+![Get In My Belly Banner][banner]
+
 
 ## Hackathon at Troy University
 * in Troy, Alabama.  Jan 2020.
@@ -10,6 +14,6 @@
 
 ## Outcome:
 * Our team spent too much time trying to do Virtual Buttons.  The idea of Vitrual Buttons,  sounded good, but they less impressive than they sound.
-* Our UI would have been much more impressive if we focused on building more UI assets and just moved them around with swipes and touches on the phone surface.
+* Standard hackathon mistake.  Let one issue bog us down and kept us from progressing on the rest of the project. if we focused on building more UI assets and just moved them around with swipes and touches on the phone surface.
 * -- Patrick's humble opinion
 
