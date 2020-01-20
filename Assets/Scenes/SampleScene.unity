@@ -129,7 +129,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: 'APMarker2Material
 
-    14380'
+    16250'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -154,7 +154,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ImageTargetMesh14370
+  m_Name: ImageTargetMesh16240
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -862,8 +862,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ef66cb39e5474b7bb604fdf649db93e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vbBtnObj: {fileID: 0}
-  pizzaAnim: {fileID: 0}
+  vbBtnObj: {fileID: 854905462}
+  pizzaAnim: {fileID: 633987596}
 --- !u!1001 &1114040580
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -879,7 +879,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 4d833905637f39e4a813e39190ecdbce,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.04
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 4d833905637f39e4a813e39190ecdbce,
         type: 3}
